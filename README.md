@@ -2,7 +2,7 @@
 
 
 - 🔭 No momento foco meus estudos no back-end
-- 🌱 Eu estou estudando Python e Django
+- 🌱 Eu estou estudando Java(Springboot) e Javascript(Angular)
 - 😄 Pronomes: Ele/dele
 
 <div align="center">
