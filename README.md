@@ -1,8 +1,8 @@
 ### Olá, eu sou o Felipe, estudante de programaçao 👋
 
 
-- 🔭 No momento foco meus estudos no back-end
-- 🌱 Eu estou estudando Java(Springboot) e Javascript(Angular)
+- 🔭 Estagiário
+- 🌱 Eu estou estudando Javascript
 - 😄 Pronomes: Ele/dele
 
 <div align="center">
