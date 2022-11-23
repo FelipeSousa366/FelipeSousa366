@@ -2,7 +2,7 @@
 
 
 - 🔭 Estagiário
-- 🌱 Eu estou estudando Javascript
+- 🌱 Eu estou estudando Javascript e C#
 - 😄 Pronomes: Ele/dele
 
 <div align="center">
