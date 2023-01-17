@@ -5,10 +5,9 @@
 - 🌱 Eu estou estudando Javascript e C#
 - 😄 Pronomes: Ele/dele
 
-<div align="center">
-  <a href="https://github.com/FelipeSousa366">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeSousa366&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSousa366&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FelipeSousa366&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=00BFFF&bg_color=0d1117" alt="Git Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSousa366&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" />
 </div>
 <div style="display: inline_block"><br> 
   <img align="center" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
