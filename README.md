@@ -2,7 +2,7 @@
 
 
 - 🔭 Estagiário
-- 🌱 Eu estou estudando React e IA
+- 🌱 Eu estou estudando React, node e IA
 - 😄 Pronomes: Ele/dele
 
 <div align="center">  
