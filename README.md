@@ -1,8 +1,8 @@
-### Olá, eu sou o Felipe, estudante de programaçao 👋
+### Olá, eu sou Antônio, eterno aprendiz 👋
 
 
-- 🔭 Estagiário
-- 🌱 Eu estou estudando React, node e IA
+- 🔭 Analista de Sistema
+- 🌱 Learning Python, ever python
 - 😄 Pronomes: Ele/dele
 
 <div align="center">  
