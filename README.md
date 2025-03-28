@@ -2,7 +2,7 @@
 
 
 - 🔭 Analista de Sistema
-- 🌱 Learning Python, ever python
+- 🌱 Estudando Python com pytorch 
 - 😄 Pronomes: Ele/dele
 
 <div align="center">  
