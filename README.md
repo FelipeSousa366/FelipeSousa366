@@ -5,7 +5,7 @@ Sou **Analista de Sistemas SAP** (produção) há ~3 anos e uso este GitHub como
 - Foco: **IA aplicada** (LLMs/NLP, RAG, Deep Learning, automações)
 - Stack principal: **Python**
 
-### Tech
+## Tech
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,flask,sklearn,git,github,postman,aws&perline=8" />
@@ -15,18 +15,21 @@ Sou **Analista de Sistemas SAP** (produção) há ~3 anos e uso este GitHub como
   Também trabalho com <b>SAP (ABAP/SAP Support).
 </p>
             
-### Projetos
+## Projetos
 - **GMPT — Game Master Powered by AI** (Python/Flask/LLM): https://github.com/FelipeSousa366/game-master-ia
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats-two-murex.vercel.app/api?username=FelipeSousa366&show_icons=true&theme=tokyonight&hide_border=true)  ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=FelipeSousa366&theme=tokyonight&hide_border=true)
+## Highlights
+- **Foco atual:** construir projetos práticos em **Python + IA aplicada** (NLP / RAG / automações).
+- **O que estou aprimorando agora:** fundamentos de **AWS** (S3, IAM, Lambda) e **SQL** para dados.
+- **Padrão que sigo nos projetos:** README claro + passos de execução + exemplos de uso + resultados (métricas/prints).
 
-![Top Langs](https://github-readme-stats-two-murex.vercel.app/api/top-langs/?username=FelipeSousa366&layout=compact&theme=tokyonight&hide_border=true)
-
-### Contato
+## Contato
 - LinkedIn: https://linkedin.com/in/antonio-felipe-de-sousa-777951220
 - Email: felipe36603466@gmail.com
 
+## GitHub Stats
+
+![Top Langs](https://github-readme-stats-two-murex.vercel.app/api/top-langs/?username=FelipeSousa366&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
