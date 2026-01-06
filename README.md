@@ -24,7 +24,7 @@ Sou **Analista de Sistemas SAP** (produção) há ~3 anos e uso este GitHub como
 - **Padrão que sigo nos projetos:** README claro + passos de execução + exemplos de uso + resultados (métricas/prints).
 
 ## Contato
-- LinkedIn: https://linkedin.com/in/antonio-felipe-de-sousa-777951220
+- LinkedIn: https://linkedin.com/in/antônio-felipe-de-sousa-777951220
 - Email: felipe36603466@gmail.com
 
 ## GitHub Stats
