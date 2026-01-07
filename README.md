@@ -31,9 +31,3 @@ Sou **Analista de Sistemas SAP** (produção) há ~3 anos e uso este GitHub como
 
 ![Top Langs](https://github-readme-stats-two-murex.vercel.app/api/top-langs/?username=FelipeSousa366&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
-<h3 align="center">Cloveflor nas horas vagas 🌸</h3>
-<p align="center">
-  <img src="https://i.pinimg.com/736x/a9/41/22/a941225cfdb7105ccbde588be0374c28.jpg" alt="Clove de Valorant" height="500">
-</p>
