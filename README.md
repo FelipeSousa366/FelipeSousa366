@@ -8,7 +8,7 @@ Sou **Analista de Sistemas SAP** (produção) há ~3 anos e uso este GitHub como
 ## Tech
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,flask,sklearn,git,github,postman,aws&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,flask,sklearn,git,github,postman&perline=8" />
   </a>
 </p>
 <p>
