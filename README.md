@@ -8,7 +8,8 @@ Sou **Analista de Sistemas SAP** (produção) há ~3 anos e uso este GitHub como
 ## Tech
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,flask,sklearn,git,github,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,flask,fastapi,sklearn,git,github,postman,linux&perline=10" />
+
   </a>
 </p>
 <p>
@@ -17,10 +18,11 @@ Sou **Analista de Sistemas SAP** (produção) há ~3 anos e uso este GitHub como
             
 ## Projetos
 - **GMPT — Game Master Powered by AI** (Python/Flask/LLM): https://github.com/FelipeSousa366/game-master-ia
+- **ADD_OPSRAG — Enterprise Operational RAG Backend** (Python/FastAPI/RAG/LLM): https://github.com/FelipeSousa366/add-opsrag
 
 ## Highlights
 - **Foco atual:** construir projetos práticos em **Python + IA aplicada** (NLP / RAG / automações).
-- **O que estou aprimorando agora:** fundamentos de **AWS** (S3, IAM, Lambda) e **SQL** para dados.
+- **O que estou aprimorando agora:** fundamentos de **AWS** (S3, IAM, Lambda) e **Vector Database** para dados.
 - **Padrão que sigo nos projetos:** README claro + passos de execução + exemplos de uso + resultados (métricas/prints).
 
 ## Contato
