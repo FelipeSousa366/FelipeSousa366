@@ -22,7 +22,7 @@ Sou **Analista de Sistemas SAP** (produção) há ~3 anos e uso este GitHub como
 
 ## Highlights
 - **Foco atual:** construir projetos práticos em **Python + IA aplicada** (NLP / RAG / automações).
-- **O que estou aprimorando agora:** fundamentos de **AWS** (S3, IAM, Lambda) e **Vector Database** para dados.
+- **O que estou aprimorando agora:** fundamentos de **AWS** (S3, IAM, Lambda), **Vector Database** para dados e práticas de DevOps (Docker, CI/CD ...).
 - **Padrão que sigo nos projetos:** README claro + passos de execução + exemplos de uso + resultados (métricas/prints).
 
 ## Contato
